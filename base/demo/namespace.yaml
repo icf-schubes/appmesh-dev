@@ -1,3 +1,4 @@
+#namespace for demo
 apiVersion: v1
 kind: Namespace
 metadata:
